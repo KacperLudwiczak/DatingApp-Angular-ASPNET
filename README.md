@@ -10,6 +10,8 @@ This is a web application designed for dating, built using **Angular** for the f
 - **ASP.NET Core**: A backend framework for handling business logic and APIs.
 - **SQLite**: A lightweight database for storing user profiles and interactions within the app.
 - **Bootstrap**: A CSS framework for creating a responsive and aesthetic user interface.
+- **SQL Server**: A robust, enterprise-level relational database management system for handling larger datasets and complex queries.
+- **Docker**: A platform for developing, shipping, and running applications in isolated containers to ensure consistent environments across different systems.
 
 ### Features
 
