@@ -1,5 +1,7 @@
 # Dating App
 
+![screenshot](client/public/dating_app.png)
+
 ## Project Description
 
 This is a web application designed for dating, built using **Angular** for the frontend and **ASP.NET Core** for the backend. The application uses **SQLite** as a lightweight database to store user data, while **Bootstrap** ensures a responsive and visually appealing user interface.
