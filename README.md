@@ -1,4 +1,4 @@
-# Dating App
+# Dating App 👩🏻‍❤️‍💋‍👨🏻
 
 ![screenshot](client/public/dating_app.png)
 
